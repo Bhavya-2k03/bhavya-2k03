@@ -4,7 +4,6 @@ Deep learning Enthusiast
 ---------------------------
 * 🌍  I'm based in India <br />
 * ✉️  You can contact me at bhavya.2k03@gmail.com <br />
-* 🤝  I'm open to collaborating on any full stack deep learning projects <br />
 <!--
 **Bhavya-2k03/bhavya-2k03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
