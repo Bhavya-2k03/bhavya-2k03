@@ -1,5 +1,3 @@
-### Hi 👋 My name is Bhavya
----------------------------
 Deep learning Enthusiast
 ---------------------------
 * 🌍  I'm based in India <br />
