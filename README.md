@@ -1,4 +1,4 @@
-Deep learning Enthusiast
+A Learner
 ---------------------------
 * 🌍  I'm based in India <br />
 * ✉️  You can contact me at bhavya.2k03@gmail.com <br />
